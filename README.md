@@ -4,14 +4,29 @@
 
 ## 🚀 Özellikler
 
-- Dört işlem (Toplama, Çıkarma, Çarpma, Bölme)
+- Faiz Hesaplama
+- Kdv Hesaplama
+- Maaş Zam Oranı Hesaplama
+- Taksit Planı Hesaplama
+- Yüzde Artış/Azalış Hesaplama
+
+- Doğum Tarihinden Burç
+- Günlük Harcama Planı
+- Saat DSönüştürücü
+- Takvimden Gün Bulma
+- Yaş Hesaplama
+
+- İki Tarih Arası Gün Farkı
+- Mod ALma
+- Not Ortalaması
 - Ortalama Hesaplama
-- Sayının Karesi ve Küpü
-- Vücut Kitle Endeksi (BMI) Hesaplama
+- Sayının Karesi/Küpü
+
 - İdeal Kilo Hesaplama
-- Günlük Su Tüketimi Hesaplama
-- Günlük Kalori İhtiyacı Hesaplama
+- Günlük Kalori İhtiyacı
 - Nabız Değeri Hesaplama
+- Su Tüketim Hesabı
+- Vücut Kitle Endeksi
 
 ## 🖥️ Kullanılan Teknolojiler
 
